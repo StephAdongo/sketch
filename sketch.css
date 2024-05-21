@@ -19,6 +19,6 @@ div{
     transition: background-color ease-in-out;
 }
 div:hover{
-    background-color: aquamarine;
+    background-color: blue;
 }
 
