@@ -1,0 +1,24 @@
+#container {
+    display: flex; 
+    height: 510px;
+    width: 510px;
+    flex-flow: wrap;
+    align-items: center;
+    background-color: white;
+    justify-content: space-around;
+}
+div{
+    height: 26px;
+    width: 26px;
+    row-gap: 4px;
+    column-gap: 4px;
+    border: 1px solid black;
+    text-align: center;
+    align-content: center;
+    background-color: white;
+    transition: background-color ease-in-out;
+}
+div:hover{
+    background-color: aquamarine;
+}
+
