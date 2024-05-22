@@ -17,6 +17,7 @@ div{
     align-content: center;
     background-color: white;
     transition: background-color ease-in-out;
+    cursor: pointer;
 }
 div:hover{
     background-color: red;
