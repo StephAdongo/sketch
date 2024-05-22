@@ -6,6 +6,9 @@
     align-items: center;
     background-color: white;
     justify-content: space-around;
+    max-width: 510px;
+    max-height: 510px;
+    overflow: hidden;
 }
 div{
     height: 26px;
